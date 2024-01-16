@@ -54,6 +54,7 @@ Using the "if" function along with "in" removes "elements" in remove_list from t
 <br />
 <br />
 The "\n" method puts the data on a new line and the join() method takes all items in an iterable and joins them into one string.
+<br />
 <img src="https://imgur.com/2RSrkj4.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 To edit "import_file", we must open it as a "w" writable file.
